@@ -1,0 +1,17 @@
+/* Eidan Javier Yumar Sanchez */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Titulo h2{
+    text-align: center;
+    font-size: 3rem;
+    font-style: italic;
+    color: gray;
+    padding: 5px;
+    margin: 20px;
+    border-top: 1px black solid;
+    border-bottom: 1px black solid;
+}

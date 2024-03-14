@@ -1,0 +1,76 @@
+/* Eidan Javier Yumar Sanchez */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.descripcion{
+    position: relative;
+    float: left;
+    width: 45%;
+    margin-left: 5%;
+}
+
+h2 + p{
+    font-weight: bolder;
+}
+
+.formulrio{
+    float: right;
+}
+
+.web{
+    width: 150px;
+    position: absolute;
+    top: 110%;
+    left: 30%;
+}
+
+.telegram{
+    width: 30px;
+    position: absolute;
+    top: 130%;
+    left: 25%;
+}
+.whatsapp{
+    width: 30px;
+    position: absolute;
+    top: 110%;
+    left: 30%;
+}
+.twitter{
+    width: 30px;
+    position: absolute;
+    top: 100%;
+    left: 40% ;
+}
+.insta{
+    width: 30px;
+    position: absolute;
+    top: 110% ;
+    left: 50% ;
+}
+.facebook{
+    width: 30px;
+    position: absolute;
+    top: 130% ;
+    left: 55% ;
+}
+
+form input{
+    width: 45%;
+    padding: 2%;
+    margin-top: 1%;
+}
+
+.boton input{
+    float: right;
+    background-color: black;
+    font-size: 2rem;
+    text-decoration: none;
+    outline: none;
+    color: white;
+    padding: 3px;
+    border-radius: 19px;
+}

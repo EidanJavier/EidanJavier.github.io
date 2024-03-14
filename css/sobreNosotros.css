@@ -1,0 +1,26 @@
+/* Eidan Javier Yumar Sanchez */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Empresa img{
+    width: 45%;
+    height: 500px;
+    margin-left: 5%;
+    float: left;
+}
+
+.descripcion img{
+    width: 40px;
+    height: auto;
+}
+
+.descripcion span{
+    color: orange;
+}
+
+h3 + p{
+    font-weight: bolder;
+}

@@ -1,0 +1,52 @@
+/* Eidan Javier Yumar Sanchez */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.aula1{
+    width: 50%;
+    height: auto;
+    float: left;
+    margin-left: 2.5%;
+}
+
+.CursoFalsificacion .descripcion{
+    float: right;
+    width: 50%;
+    padding: 5%;
+}
+
+.descripcion h2{
+    font-size: 2rem;
+}
+
+.descripcion h3{
+    font-size: 1.5rem;
+}
+
+.descripcion a{
+    background-color: grey;
+    font-size: 2rem;
+    text-decoration: none;
+    outline: none;
+    color: white;
+    padding: 1.5px;
+    border-radius: 19px;
+    float: right;
+}
+
+.CursoDiseño{
+    margin-top: 15%;
+}
+
+.CursoDiseño .descripcion{
+    float: left;
+    width: 50%;
+}
+
+.aula2{
+    float: right;
+    width: 50%;
+}

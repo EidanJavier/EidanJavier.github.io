@@ -1,0 +1,65 @@
+/* Eidan Javier Yumar Sanchez */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.fotos > .flotar{
+    float: left;
+    margin-left: 5%;
+    width: 20%;
+}
+
+.flotar img {
+    width: 90%;
+}
+
+.nombres > .flotar{
+    text-align: center;
+    float: left;
+    margin-left: 5%;
+    width: 20%;
+    padding: 1%;
+}
+
+.precio > .flotar{
+    text-align: center;
+    float: left;
+    margin-left: 5%;
+    width: 20%;
+    padding: 1%;
+}
+
+.carrito > .flotar{
+    text-align: center;
+    float: left;
+    margin-left: 5%;
+    width: 20%;
+    padding: 1%;
+}
+
+.carrito a{
+    text-decoration: none;
+    outline: none;
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+    padding: 5px;
+}
+
+#paginas li{
+    float: right;
+    list-style: none;
+    padding: 3%;
+}
+
+#paginas a{
+    color: white;
+    text-decoration: none;
+    outline: none;
+    background-color: black;
+    border-radius: 30px;
+    padding: 15px;
+}

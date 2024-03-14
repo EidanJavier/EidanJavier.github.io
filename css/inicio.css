@@ -1,0 +1,57 @@
+/* Eidan Javier Yumar Sanchez */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#cuerpo{
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid black;
+}
+
+#portada{
+    background-image: url(../img/Carroussel/Carroussel-1.webp);
+    background-size: 100% 100%;
+    background-position: 100% 0;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+#portada #titulo{
+    font-size: 3rem;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+#contenido{
+    display: flow-root;
+    margin-top: 5px;
+}
+
+#parrafada #descripcion{
+    width: 50%;
+    float: left;
+    margin: 5px;
+}
+
+#descripcion a{
+    background-color: black;
+    font-size: 2rem;
+    text-decoration: none;
+    outline: none;
+    color: white;
+    padding: 1.5px;
+    border-radius: 19px;
+}
+
+.zapato{
+    height: 200px;
+    float: right;
+    margin: 10px;
+}
+
+
+
